@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @praveenkumar8754
 - 👀 I’m interested in MERN stack
 - 🌱 I’m currently learning learning MERN stack
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me praveenraman7877@gmail.com
 
 <!---
